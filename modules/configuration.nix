@@ -298,7 +298,7 @@
 
      pkgs.cron
      pkgs.cups
-     pkgs.neofetch
+     pkgs.hyfetch
      pkgs.firefox
      pkgs.git
      pkgs.git-lfs
